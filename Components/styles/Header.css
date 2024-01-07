@@ -1,0 +1,16 @@
+.header-wrap {
+  width: 460px;
+  height: 220px;
+  background-color: #eeeeee;
+  position: relative;
+}
+.name-hello {
+  top: 60%;
+  left: 7%;
+  position: absolute;
+}
+.hello2-text {
+  position: absolute;
+  top: 80%;
+  left: 7%;
+}

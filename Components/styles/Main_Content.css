@@ -1,0 +1,17 @@
+.main-content-wrap {
+  width: 460px;
+  height: 400px;
+  background-color: azure;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-info {
+  width: 100%;
+  height: 300px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  overflow: scroll;
+}

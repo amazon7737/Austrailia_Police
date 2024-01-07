@@ -1,0 +1,11 @@
+.purchase-wrap {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #dddddd;
+  color: #000000;
+  background-color: antiquewhite;
+}
+
+.home-name {
+  color: black;
+}

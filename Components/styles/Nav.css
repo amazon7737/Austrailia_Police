@@ -1,0 +1,16 @@
+.nav-wrap {
+  width: 460px;
+  height: 50px;
+  background-color: #ffffff;
+  border-top: 0.5px solid #dddddd;
+  box-shadow: rgb(0 0 0 /25%) 0px 0px 4px 0px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+  align-items: end;
+}
+
+.nav-button {
+  color: #1d1b20;
+  text-decoration: none;
+}
